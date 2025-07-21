@@ -1,4 +1,5 @@
 Customer_churn_prediction
+
 Customer churn prediction is essential for several reasons, and its importance extends to businesses across various industries. Here are some key reasons why customer churn prediction is important:
 
 Retaining Customers: Acquiring new customers can be significantly more expensive than retaining existing ones. By predicting churn, businesses can proactively identify customers who are likely to leave and take preventive measures to retain them. This helps to maintain a loyal customer base and reduce revenue loss.
